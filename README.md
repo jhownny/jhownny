@@ -6,3 +6,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=dracula&count_private=true"/>
 </div>
   
+![Snake animation](https://github.com/jhownny/jhownny/blob/output/github-contribution-grid-snake.svg)
