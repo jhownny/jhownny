@@ -1,15 +1,13 @@
 ## Hi, I'm [Jhonata Batista](https://github.com/jhownny)
-
-<div "align="center">
-  <a helf= "https://github.com/jhownny/" >
-    <img height= "180em" src="(https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical)" />
-    <img height= "180em" src="(https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
-  </a>
+<div align="center">
+  <a href="https://github.com/jhownny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=draula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=dracula&layout=count_private=true"/>
 </div>
 
 
 
-![jhownny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact&card_width=470%)](https://github.com/anuraghazra/github-readme-stats)
+![jhownny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact&card_width=470%)
 
 <!--
 **jhownny/jhownny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
