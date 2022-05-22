@@ -1,6 +1,11 @@
 # Hi, I'm [Jhonata Batista](https://github.com/jhownny)
+<div "align="center">
+  <a helf= "https://github.com/jhownny/github-readme-stats" >
+    <img height= "180em" src="(https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical)" />
+    <img height= "180em" src="(https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact&card_width=470%)](https://github.com/anuraghazra/github-readme-stats)" />
+  </a>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact&card_width=470%)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
