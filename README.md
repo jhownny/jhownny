@@ -3,7 +3,7 @@
 <div "align="center">
   <a helf= "https://github.com/jhownny/" >
     <img height= "180em" src="(https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical)" />
-    <img height= "180em" src="(https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact&card_width=470%)](https://github.com/anuraghazra/github-readme-stats)" />
+    <img height= "180em" src="(https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
   </a>
 </div>
 
