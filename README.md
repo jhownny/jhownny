@@ -1,6 +1,6 @@
 # Hi, I'm [Jhonata Batista](https://github.com/jhownny)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact&card_width=20em)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=radical&layout=compact&card_width=200%)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
