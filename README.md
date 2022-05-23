@@ -1,4 +1,4 @@
-# Hi, I'm [Jhonata Batista](https://github.com/jhownny) 😃 :smiley:
+# Hi, I'm [Jhonata Batista](https://github.com/jhownny) 
 
 <div align="center">
   <a href="https://github.com/jhownny">
