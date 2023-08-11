@@ -11,16 +11,15 @@
   <a href="https://github.com/stars/jhownny/lists/c">
      <img align="center" alt="Jhow-Csharp" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
+    <a href="https://github.com/stars/jhownny/lists/php">
+    <img align="center" alt="Jhow-PHP" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  </a>
   <a href="https://github.com/stars/jhownny/lists/html-css">
      <img align="center" alt="Jhow-HTML" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Jhow-CSS" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-     <img align="center" alt="Jhow-Java" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
-  <a href="https://github.com/stars/jhownny/lists/php">
-    <img align="center" alt="Jhow-PHP" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  </a>
-    <img align="center" alt="Jhow-SQL" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    
+  <img align="center" alt="Jhow-Java" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
+  <img align="center" alt="Jhow-SQL" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 <br>
