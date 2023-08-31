@@ -11,6 +11,8 @@
   <a href="https://github.com/stars/jhownny/lists/c">
      <img align="center" alt="Jhow-Csharp" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
+  <img align="center" alt="Jhow-Java" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
+  <img align="center" alt="Jhow-SQL" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <a href="https://github.com/stars/jhownny/lists/php">
     <img align="center" alt="Jhow-PHP" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </a>
@@ -18,15 +20,14 @@
      <img align="center" alt="Jhow-HTML" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Jhow-CSS" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <img align="center" alt="Jhow-Java" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
-  <img align="center" alt="Jhow-SQL" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/jhownny">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=dark&count_private=true&include_all_commits=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhownny&theme=dark&layout=compact&include_all_commits=true"/>
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhownny&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhownny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> -->
