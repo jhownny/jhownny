@@ -34,10 +34,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhownny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> -->
      <!-- <img heigt="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhownny&theme=dark&hide_border=false"/> -->
   </a>
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ffce935ce9f4ca58b6a643?variant=dark&roadmaps=ai-data-scientist%2Cbackend%2Cfull-stack%2Cjavascript" alt="roadmap.sh"/></a>
+  <!--<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ffce935ce9f4ca58b6a643?variant=dark&roadmaps=ai-data-scientist%2Cbackend%2Cfull-stack%2Cjavascript" alt="roadmap.sh"/></a>-->
+  
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ffce935ce9f4ca58b6a643?variant=dark)](https://roadmap.sh)
   
 </div>
 
+  
 
   
 <h3 align="center"> Você pode entrar em contato comigo através destes lugares:</h3>
