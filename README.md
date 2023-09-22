@@ -17,9 +17,7 @@
   <a href="https://github.com/stars/jhownny/lists/html-css">
      <img align="center" alt="Jhow-HTML" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Jhow-CSS" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-
-</div>
+  </a></div>
 
 <br>
 
