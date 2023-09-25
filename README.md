@@ -32,7 +32,7 @@
   </a>
   <!--<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ffce935ce9f4ca58b6a643?variant=dark&roadmaps=ai-data-scientist%2Cbackend%2Cfull-stack%2Cjavascript" alt="roadmap.sh"/></a>-->
   
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ffce935ce9f4ca58b6a643?variant=dark&roadmaps=python%2Cfrontend%2Csql%2Cbackend)](https://roadmap.sh)
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ffce935ce9f4ca58b6a643?variant=dark&roadmaps=python%2Cbackend%2Cfull-stack)](https://roadmap.sh)
   
 </div>
 
