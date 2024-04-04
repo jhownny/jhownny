@@ -1,4 +1,6 @@
 <h1 align="center"> Olá, meu nome é <a href="https://github.com/jhownny"> Jhonata Batista </a> </h1>
+
+<!--
 <h5 align="center"> &#128187; Estudo linguagens de programação Back-End e um pouco de Front! </h5>
 
 <div style="display: inline_block" align="center">
@@ -20,7 +22,7 @@
   </a></div>
 
 <br>
-
+-->
 <div align="center">
 
   <a href="https://github.com/jhownny">
