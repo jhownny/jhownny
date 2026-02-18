@@ -25,7 +25,7 @@
 
 - [ChooseMovie](https://github.com/jhownny/ChooseMovie) → Sistema de recomendação simples com **Python, CSV e MySQL**
 - [CursoEmVideoPython](https://github.com/jhownny/CursoEmVideoPython) → Exercícios organizados de Python, explorando fundamentos e boas práticas
-- [PHP-SistematiChuleta](https://github.com/jhownny/PHP-SistematiChuleta) → Sistema em **PHP + Bootstrap**, mostrando experiência em backend e frontend
+- [MarketList](https://github.com/jhownny/MarketList) → Gestão de despesas via chat com **PHP 8+ e MySQL**, processando comandos em linguagem natural
 
 ---
 
