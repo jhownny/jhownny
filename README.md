@@ -32,7 +32,7 @@
 <h3 align="center">📊 Estatísticas</h3>
 <div align="center">
 
-  [![jhownny's Stats](https://github-stats-extended.vercel.app/api?username=jhownny&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=prussian)](https://github-stats-extended.vercel.app/api?username=jhownny&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=prussian)
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jhownny&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=prussian)](https://github-stats-extended.vercel.app/api?username=jhownny&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=prussian)
   <br>
     
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jhownny&layout=donut-vertical&langs_count=4&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=jhownny&layout=donut-vertical&langs_count=4&theme=prussian)
