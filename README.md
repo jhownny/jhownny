@@ -23,6 +23,7 @@
 
 <h3 align="center">📌 Projetos em Destaque</h3>
 
+- [MarketList Mobile](https://github.com/jhownny/marketlist_mobile) → Ecossistema de gestão de despesas. App construído em **Flutter** com arquitetura *Offline-First* (resiliência sem internet), atualizações nativas (OTA), e API RESTful em **PHP 8+** blindada com tokens **JWT**.
 - [ChooseMovie](https://github.com/jhownny/ChooseMovie) → Sistema de recomendação simples com **Python, CSV e MySQL**
 - [CursoEmVideoPython](https://github.com/jhownny/CursoEmVideoPython) → Exercícios organizados de Python, explorando fundamentos e boas práticas
 - [MarketList](https://github.com/jhownny/MarketList) → Gestão de despesas via chat com **PHP 8+ e MySQL**, processando comandos em linguagem natural
